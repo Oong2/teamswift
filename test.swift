@@ -6,7 +6,7 @@
 //
 //    }
 //}
-
+print("하진")
 class Caculator{
     
 //    switch 넣어 기능구현
